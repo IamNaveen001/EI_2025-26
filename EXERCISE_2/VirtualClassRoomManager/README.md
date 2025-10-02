@@ -7,6 +7,7 @@ A robust Java-based Virtual Classroom Management System that efficiently handles
 
 
 <img width="2691" height="3840" alt="classDiagram" src="https://github.com/user-attachments/assets/c50c0b97-9e0a-4939-b011-4b207c18d22d" />
+
 ## Core Features
 
 
@@ -198,3 +199,4 @@ java -cp out com.edtech.vcm.Application
 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
